@@ -10,5 +10,5 @@
 
 ## Exemplos
 
-1. [Olá mundo em WebGL](estudos/ola-mundo.md)
+1. [Olá mundo em WebGL](estudos/ex-ola-mundo.md)
 
